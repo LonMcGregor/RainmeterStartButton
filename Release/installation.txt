@@ -1,0 +1,2 @@
+Place the .vbs script in your rainmeter plugins directory.
+Manually load the folder containing the .ini file & .png
